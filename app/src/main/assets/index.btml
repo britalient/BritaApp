@@ -1,0 +1,11 @@
+<view bgcolor="#660066" background="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/0F/09/ChMkJlauzfuIMtPLAA3gGG1OQ2AAAH9JgHlPpYADeAw249.jpg">
+    <text color="#FF0000" bgcolor="#660000">
+        Hello Brita! Hello World!
+    </text>
+    <view bgcolor="#660066" direction="row">
+        <text color="#FFFFFF" bgcolor="#00FF00">
+            Lalalalala!
+        </text>
+        <text color="#FFFFFF" background="http://desk.fd.zol-img.com.cn/t_s208x130/g5/M00/0A/07/ChMkJ1gi9JOIZM6lAAvBkdOYiXcAAXm6QCxYwQAC8Gp433.jpg">ssasasas! </text>
+    </view>
+</view>
