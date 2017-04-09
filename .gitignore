@@ -1,4 +1,5 @@
 /build
+.gradle
 
 # OSX files　　　　　　//mac os下
 .DS_Store
@@ -6,3 +7,4 @@
 # Android Studio
 *.iml
 .idea
+/local.properties
